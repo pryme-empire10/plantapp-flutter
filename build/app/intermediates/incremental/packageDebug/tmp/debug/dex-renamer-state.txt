@@ -1,4 +1,4 @@
-#Tue Dec 06 11:39:22 WAT 2022
-base.0=C\:\\Users\\BOSS-PRYME\\Documents\\project\\flutter\\plantapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Mon Dec 12 14:06:31 WAT 2022
+base.0=/home/captured-heart/DEV MAIN/OPEN SOURCE/plantapp-flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
